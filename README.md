@@ -17,4 +17,17 @@ How do I interpret user needs and incorporate them into a program?
 In this scenario the requirement were clearly stated from the associating 
 documents. From there clear objectives and goals were created to ensure that
 users needs were porperly incorportated. Communication is critical for the 
-intepretation of the users need. Implementing methods to communicate and 
+intepretation of the users need. Implementing methods of communication
+between the user and the developers would be the natural first step. From 
+there the needs of the users should then be analyzed. Their needs should be
+docuented and requirements should be determined. Once that is done, their 
+needs can be incorporated in a structured and organized manner.
+
+How do I approach designing software?
+I try to stick close with traditional software development lifecycle processes
+when approaching software design. Before developing the actual code I like to 
+really analyze the goals and requirements and spend some time planning the
+project out. Once I have a clear understanding of my goals I then work on 
+reaching the requirements. I then test and validate that the software is
+working as intended. I do have a very agile approach and respond to each 
+situation differently. I may go back a step or do them in a different order.
